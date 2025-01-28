@@ -1,6 +1,7 @@
 # React Code Editor
 A simple React-based code editor that supports writing and previewing React code. The project is inspired by the Playcode React Editor and is designed as a part of a Full-Stack Developer Internship task.
 
+![image](https://github.com/user-attachments/assets/8f1c76a1-3fd3-49f9-b1b0-bae6d89d0952)
 
 Features:
 Code Editing: Write React code directly in the editor.
